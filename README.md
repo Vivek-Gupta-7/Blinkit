@@ -1,7 +1,7 @@
 # Blinkit
 # 📊 Blinkit Sales Analysis Dashboard | Power BI
 
-![Dashboard Preview](dashboard.png)
+
 
 ## 📌 Project Overview
 
