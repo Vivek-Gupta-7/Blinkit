@@ -130,7 +130,7 @@ This dashboard helps stakeholders:
 
 - 🎓 B.Tech Computer Science & Engineering
 - 📊 Data Analytics Enthusiast
-- 💻 Java | Power BI | SQL | Python
+- 💻 Java | Power BI | Python
 - 🌱 Passionate about solving real-world business problems using data.
 
 ---
